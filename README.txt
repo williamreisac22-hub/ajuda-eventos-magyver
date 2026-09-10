@@ -1,5 +1,3 @@
-Ajuda Eventos Magyver
-
-Este projeto está pronto para publicar.
-Basta extrair o ZIP e enviar a pasta para GitHub Pages ou Netlify.
-O arquivo principal é index.html.
+Pronto para GitHub Pages.
+Extraia e envie TODO o conteúdo desta pasta para a raiz do repositório.
+Arquivos: index.html, 404.html, manifest.webmanifest, .nojekyll.

@@ -1,17 +1,8 @@
 {
-  "name": "Ajuda Eventos Magyver",
-  "short_name": "Magyver Eventos",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#080a0d",
-  "theme_color": "#ff8a00",
-  "lang": "pt-BR",
-  "icons": [
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
+  "name":"Ajuda Eventos Magyver",
+  "short_name":"Magyver",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#080a0d",
+  "theme_color":"#ff8a00"
 }
